@@ -1,6 +1,6 @@
 **Organization Name:** Symotedz
 
-location ** Nairobi, Kenya.
+location ** Nairobi, Kenya**.
 
 **Description:**
 
