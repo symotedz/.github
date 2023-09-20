@@ -1,5 +1,7 @@
 **Organization Name:** Symotedz
 
+location ** Nairobi, Kenya.
+
 **Description:**
 
 Welcome to Symotedz, a company for innovators, developers, and creators dedicated to pushing the boundaries of technology and fostering collaboration. Symotedz is a dynamic company that brings together passionate individuals with a shared vision of driving innovation and making a positive impact on the world through open-source projects, cutting-edge software development, and creative solutions.
